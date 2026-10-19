@@ -1,0 +1,9 @@
+# Java / Maven
+backend/target/
+*.class
+# IDE
+.idea/
+.vscode/
+# Local secrets
+.env
+application-local.properties
